@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prem Kumar Patra</h1>
 <h3 align="center">Results-driven BCA graduate and accomplished MIS Executive with a proven track record in data management and reporting. Proficient in SQL, Excel, and Power BI.</h3>
-
+<a href="https://ibb.co/zGTnxq8"><img src="https://i.ibb.co/LnXkRVQ/Black-Gradient-Minimalist-Corporate-Business-Personal-Profile-New-Linked-In-Banner.png" alt="Black-Gradient-Minimalist-Corporate-Business-Personal-Profile-New-Linked-In-Banner" border="0"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem1102&label=Profile%20views&color=0e75b6&style=flat" alt="prem1102" /> </p>
 
 - 🔭 I’m currently working on **MIS Executive**
