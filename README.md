@@ -20,7 +20,7 @@
 <a href="https://twitter.com/premkumarpatra3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="premkumarpatra3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prem-kumar-patra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prem-kumar-patra" height="30" width="40" /></a>
 <a href="https://fb.com/premkumar.patra.545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="premkumar.patra.545" height="30" width="40" /></a>
-<a href="https://instagram.com/_its.prem__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_its.prem__" height="30" width="40" /></a>
+<a href="https://instagram.com/_its.prem___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_its.prem__" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prem991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prem991" height="30" width="40" /></a>
 </p>
 
